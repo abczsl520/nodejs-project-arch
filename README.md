@@ -178,6 +178,16 @@ Full docs on the [Wiki](https://github.com/abczsl520/nodejs-project-arch/wiki):
 | [Admin Dashboard](https://github.com/abczsl520/nodejs-project-arch/wiki/Admin-Dashboard) | Admin panel standards |
 | [Token Savings](https://github.com/abczsl520/nodejs-project-arch/wiki/Token-Savings) | Detailed savings analysis |
 
+## 🔗 Part of the AI Dev Quality Suite
+
+| Skill | Purpose | Install |
+|-------|---------|---------|
+| [bug-audit](https://github.com/abczsl520/bug-audit-skill) | Dynamic bug hunting, 200+ pitfall patterns | `clawhub install bug-audit` |
+| [codex-review](https://github.com/abczsl520/codex-review) | Three-tier code review with adversarial testing | `clawhub install codex-review` |
+| [debug-methodology](https://github.com/abczsl520/debug-methodology) | Root-cause debugging, prevents patch-chaining | `clawhub install debug-methodology` |
+| **nodejs-project-arch** (this) | AI-friendly architecture, 70-93% token savings | `clawhub install nodejs-project-arch` |
+| [game-quality-gates](https://github.com/abczsl520/game-quality-gates) | 12 universal game dev quality checks | `clawhub install game-quality-gates` |
+
 ## 🤝 Works With
 
 - [OpenClaw](https://openclaw.ai) — AI agent framework
