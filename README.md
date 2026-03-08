@@ -132,7 +132,7 @@ This skill implements the Node.js-specific patterns from [project-arch-core](htt
 |-------|----------|--------|
 | **project-arch-core** | Universal principles | ✅ Foundation |
 | **nodejs-project-arch** (this) | Node.js / Express | ✅ Available |
-| react-project-arch | React / Next.js | 🔲 Planned |
+| [react-project-arch](https://github.com/abczsl520/react-project-arch) | React / Vite | ✅ Available |
 | python-project-arch | Python | 🔲 Community welcome |
 | go-project-arch | Go | 🔲 Community welcome |
 
